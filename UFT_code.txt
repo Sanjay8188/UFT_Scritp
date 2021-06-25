@@ -1,0 +1,2 @@
+AIUtil.SetContext Browser("creationtime:=0")
+AIUtil("search").Search "amazon"
